@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "408590957410",
+    "firebase_url": "https://studio-1433613245-d81db-default-rtdb.firebaseio.com",
+    "project_id": "studio-1433613245-d81db",
+    "storage_bucket": "studio-1433613245-d81db.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408590957410:android:293841d6534b1c87e78a3b",
+        "android_client_info": {
+          "package_name": "com.surya.nutriflow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408590957410-29dqekm3f7575unn2j19mvpf4tmlfl4g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.surya.nutriflow",
+            "certificate_hash": "ab1b879c58cfcdd0b2fdce66952f5b1d57e10ede"
+          }
+        },
+        {
+          "client_id": "408590957410-j52sj6dqa2b2564gqa5s323oh8gekteb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.surya.nutriflow",
+            "certificate_hash": "baf77a8df5203a1e5be789c7fdce3b665f787279"
+          }
+        },
+        {
+          "client_id": "408590957410-og3p9es1m1qd7sb9655f75bjjovhdp01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTgK0z9h0CeL-CAaFGIFuKvvOEP2U2TAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408590957410-og3p9es1m1qd7sb9655f75bjjovhdp01.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
